@@ -68,9 +68,3 @@ streamlit run app.py
 
 * Add filtering by gender or sport in more sections
 * Deploy the app via Streamlit Cloud or Render
-
-## 📸 Screenshots
-
-*Add screenshots of the UI here if desired.*
-
----
